@@ -1,2 +1,1 @@
-# AppTemplate2026
-
+# Animaldex
